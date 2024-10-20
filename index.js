@@ -5,4 +5,4 @@ document.getElementById("myP").textContent = "Login"
 let age = 25;
 let price = 455.66;
 let gpa = 23;
-console.log("Your are", age  )
+console.log("Your are", age  );
