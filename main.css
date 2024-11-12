@@ -3,6 +3,9 @@ html{
 }
 body{
     background-color: #333;
-    color: #ff7fb4;
+    color: hsl(280, 30%, 96%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: rgb(0, 255, 136);
 }
