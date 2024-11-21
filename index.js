@@ -8,6 +8,7 @@ console.log("Your are", age  );
 document.getElementById("der_").textContent = "Rique Pharma"; 
 document.getElementById("ser_e").textContent = "\tSignup";
 document.getElementById("open").textContent = "Black Friday Sales"
+document.getElementById("shop").textContent = "Shop by Category";
 console.log("my age is" , age);
 console.log(price)
 
